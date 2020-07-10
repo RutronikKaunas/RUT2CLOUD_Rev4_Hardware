@@ -1,0 +1,15 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:50:54 On 2019-05-21
+
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [RUT2CLOUD_panel.PcbDoc]
+   Generated File[Pick Place for RUT2CLOUD_panel.txt]
+   Generated File[Pick Place for RUT2CLOUD_panel.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 11:50:56 On 2019-05-21

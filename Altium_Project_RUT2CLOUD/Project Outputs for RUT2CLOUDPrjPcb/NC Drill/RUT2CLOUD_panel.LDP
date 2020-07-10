@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\gdr\Documents\darbai\Altium projects\RUT2CLOUD\RUT2CLOUD_panel.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=rut2cloud_panel-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=rut2cloud_panel-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

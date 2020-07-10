@@ -1,0 +1,102 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\gdr\Documents\darbai\Altium projects\RUT2CLOUD\RUT2CLOUD.PcbDoc
+Date     : 2019-06-28
+Time     : 14:29:04
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (InNet('ANTENNA')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (InNet('NetP8_1')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.104mm) (InNet('NetFLT1_3')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.106mm) (InNet('NetFLT1_1')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (InNet('NetP7_1')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.106mm) (InNet('NetANT1_1')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=0.2mm) (Preferred=0.2mm) (InNet('NetFLT1_3'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.45mm) (Max=4mm) (Preferred=0.45mm) (InNet('NetANT1_1'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.15mm) (Max=4mm) (Preferred=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=4mm) (Preferred=1.1mm) (InNet('NetP8_1'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=4mm) (Preferred=1.1mm) (InNet('NetP7_1'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.45mm) (Max=4mm) (Preferred=0.45mm) (InNet('NetFLT1_1'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=4mm) (Preferred=1.1mm) (InNet('ANTENNA'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=12mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Room Sensors (Bounding Region = (7.8mm, 16.7mm, 170.9mm, 161.4mm) (InComponentClass('Sensors'))
+Rule Violations :0
+
+Processing Rule : Room ST Link (Bounding Region = (8.1mm, 16.1mm, 418.099mm, 176.1mm) (InComponentClass('ST Link'))
+Rule Violations :0
+
+Processing Rule : Room Power management (Bounding Region = (7.5mm, 16.4mm, 441.499mm, 153.6mm) (InComponentClass('Power management'))
+Rule Violations :0
+
+Processing Rule : Room BLE_Controller (Bounding Region = (7.2mm, 15.8mm, 501.899mm, 118.3mm) (InComponentClass('BLE_Controller'))
+Rule Violations :0
+
+Processing Rule : Room Connectors (Bounding Region = (25.7mm, 26.3mm, 98.3mm, 113mm) (InComponentClass('Connectors'))
+Rule Violations :0
+
+Processing Rule : Room Modem GNSS (Bounding Region = (6.9mm, 18.1mm, 437.999mm, 139.9mm) (InComponentClass('Modem GNSS'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:01
