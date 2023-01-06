@@ -10,7 +10,7 @@ This is the unreleased Rutronik development kit RUT2CLOUD Rev4. This board is fe
 -   Telit SL876Q5-A GNSS Module.
 -   Nano SIM card slot.
 -   Ceramic Chip BLE Antenna ANT2012LL00R2400A.
--     STM32WB55CGU6 - Multiprotocol wireless 32-bit MCU Arm®-based Cortex®-M4  with FPU, Bluetooth® 5 and 802.15.4 radio solution.
+-   STM32WB55CGU6 - Multiprotocol wireless 32-bit MCU Arm®-based Cortex®-M4  with FPU, Bluetooth® 5 and 802.15.4 radio solution.
 -   L6924U - USB-compatible battery charger system with integrated power switch for Li-Ion/Li-Polymer.
 -  LD39200PUR - 2 A high PSRR ultra-low drop linear regulator with reverse current protection.
 -  STLQ020J18R - 1.8V 200 mA ultra-low quiescent current LDO.
